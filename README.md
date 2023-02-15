@@ -5,6 +5,7 @@ The SGM_Tables.sql contains all the table of this database
 the insertion in multiple tables is done through StoreProcedures.
 # Included
 I have written 17 triggers and 11 Stored procedures. Iam including sql files of those trigggers and stored procedures. 
+The erd file is also included named ERD.pdf
 ## Proposal Document
 SGM is a textile manufacturer and exporter which produces textile goods and export them. In this 
 project I will try to build a sequel server database for manufacturing department. I will handle the 
